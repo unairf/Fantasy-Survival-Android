@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a19e0705e8728ca4ba3f79fac904ecef, type: 3}
+  m_Name: new localization manager
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: languages
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[LanguageContainer, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 7
+      Data: 1|LanguageContainer, Assembly-CSharp
+    - Name: languageName
+      Entry: 1
+      Data: Default
+    - Name: languageCode
+      Entry: 1
+      Data: es_ES
+    - Name: languageTexts
+      Entry: 7
+      Data: 2|System.Collections.Generic.List`1[[LanguageText, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 7
+      Data: 3|LanguageText, Assembly-CSharp
+    - Name: key
+      Entry: 1
+      Data: prueba
+    - Name: value
+      Entry: 1
+      Data: Prueba 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 4|LanguageText, Assembly-CSharp
+    - Name: key
+      Entry: 1
+      Data: prueba2
+    - Name: value
+      Entry: 1
+      Data: Prueba 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 5|LanguageContainer, Assembly-CSharp
+    - Name: languageName
+      Entry: 1
+      Data: English
+    - Name: languageCode
+      Entry: 1
+      Data: en_UK
+    - Name: languageTexts
+      Entry: 7
+      Data: 6|System.Collections.Generic.List`1[[LanguageText, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  directory: C:\Users\Unai\Desktop\lang\
